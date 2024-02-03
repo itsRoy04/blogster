@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 // import profileImg from "@/public/profile-img.png"
-import Capture from "@/public/Capture.png"
+
 
 const Logo = () => {
   return (
